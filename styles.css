@@ -17,6 +17,14 @@ footer{
     padding-top: 20px;
 }
 
+nav {
+    background-color: rgb(191, 211, 246);
+}
+
+body {
+    background-color: rgb(201, 187, 241);
+}
+
 /* Slide-In on Hover */
 .animated-card {
     transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
@@ -29,4 +37,14 @@ footer{
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
   }
   
+  p {
+    font-family: 'Courier New';
+  }
   
+  h1 {
+    font-family: 'Papyrus';
+  }
+  
+  h2 {
+    font-family: 'Courier New'
+  }
